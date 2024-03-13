@@ -26,8 +26,7 @@
 </div>
 <h3>Problem Statement : to make a model that classify of a specific transaction is fraud or not !</h3>
 <p>
-<h3>Result : </h3>
-<div>after i use a preprocessing process and make data ready to using classificaion model to predict if the transaction are fraud or not i get these results :
+<b>Result : </b><div>after i use a preprocessing process and make data ready to using classificaion model to predict if the transaction are fraud or not i get these results :
 <h4>Accuracy Score : </h4>
 <h4>confusion matrix : </h4>
 <h4>classification report : </h4>
