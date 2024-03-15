@@ -27,9 +27,19 @@
 <h3>Problem Statement : to make a model that classify of a specific transaction is fraud or not !</h3>
 <p>
 <b>Result : </b><div>after i use a preprocessing process and make data ready to using classificaion model to predict if the transaction are fraud or not i get these results :
-<h4>Accuracy Score : </h4>
-<h4>confusion matrix : </h4>
-<h4>classification report : </h4>
+<h4>Accuracy Score : 0.96 %</h4>
+<h4>confusion matrix :
+  [[1737   65]
+ [  67 1735]] </h4>
+<h4>classification report : 
+        precision    recall  f1-score   support
+
+         0.0       0.96      0.96      0.96      1802
+         1.0       0.96      0.96      0.96      1802
+
+    accuracy                           0.96      3604
+   macro avg       0.96      0.96      0.96      3604
+weighted avg       0.96      0.96      0.96      3604</h4>
 </div>
 <h2>Thank you</h2>
 </p>
