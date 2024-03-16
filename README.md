@@ -1,5 +1,5 @@
 # Fraud-Detection Project for Financial Transactions
-<img src='1.jpeg'  width = "70% height = "50%/>
+<img src="1.jpeg"  width="70%  height="50%/>
 <p>
   <div>  <h3>About Data : </h3>This is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.</div>
 </p>
