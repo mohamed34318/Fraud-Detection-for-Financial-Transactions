@@ -1,7 +1,7 @@
 # Fraud-Detection Project for Financial Transactions
 
 <p>
-  <img  src="1.jpeg"  width="70%  height="50% />
+  <img  src="1.jpeg"  width="50%  height="50% />
   <div>  <h3>About Data : </h3>This is a simulated credit card transaction dataset containing legitimate and fraud transactions from the duration 1st Jan 2019 - 31st Dec 2020. It covers credit cards of 1000 customers doing transactions with a pool of 800 merchants.</div>
 </p>
 <div>
@@ -33,7 +33,7 @@
 <h4>confusion matrix :
   [[1737   65]
  [  67 1735]] </h4>
-<h4>classification report : 
+<h4>classification report : </h4>
         precision    recall  f1-score   support
 
          0.0       0.96      0.96      0.96      1802
@@ -41,7 +41,7 @@
 
     accuracy                           0.96      3604
    macro avg       0.96      0.96      0.96      3604
-weighted avg       0.96      0.96      0.96      3604</h4>
+weighted avg       0.96      0.96      0.96      3604
 </div>
 <h2>Thank you</h2>
 </p>
